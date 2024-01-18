@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Alamine Sallah
+- 👀 I’m a mechanical engineer currently working on electrochemical flow cell designs for battery recycling. 
+- 📫 How to reach me: alamine.sallah@berkeley.edu
+- ⚡ Looking forward to decarbonizing the future
